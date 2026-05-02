@@ -19,6 +19,35 @@ A full-stack web application that connects farmers and buyers directly.
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/Login.png)
+
+### 📝 Register Page
+![Register](screenshots/Register.png)
+
+### 🌾 Add Crop
+![Add Crop](screenshots/Adding%20crops.png)
+
+### 🤝 Orders & Negotiation
+![Orders](screenshots/Countering%20or%20accepting%20or%20rejecting%20orders.png)
+
+### 📊 Order Status
+![Status](screenshots/Orders%20status.png)
+
+
+## ✨ UI Highlights (From Screens)
+
+- Clean dashboard navigation
+- Card-based crop display
+- Status badges (Accepted / Rejected / Countered)
+- Inline negotiation system
+- Responsive layout
+
 ## 🛠️ Tech Stack
 
 ### Backend
