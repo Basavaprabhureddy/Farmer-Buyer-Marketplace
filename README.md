@@ -84,12 +84,7 @@ http://localhost:8080/api
 
 ---
 
-## 📸 Screens
 
-- Add Crop
-- View Crops
-- Order Management
-- Negotiation System
 
 ---
 
@@ -100,22 +95,9 @@ http://localhost:8080/api
 3. Buyer places order  
 4. Farmer accepts/rejects/counters  
 5. Buyer responds  
-
----
-
-## 💡 Future Improvements
-
-- JWT Authentication
-- Payment Integration
-- Notifications
-- Admin Dashboard
-
 ---
 
 ## 👨‍💻 Author
 
 Basavaprabhu Reddy
 
----
-
-## ⭐ If you like this project, give it a star!
