@@ -1,0 +1,28 @@
+.add-product-container {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.product-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.product-form input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.product-form button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.product-form button:hover {
+  background-color: darkgreen;
+}

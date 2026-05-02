@@ -1,0 +1,10 @@
+.dashboard-container {
+  padding: 20px;
+}
+
+.user-card {
+  background: #f1f1f1;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
